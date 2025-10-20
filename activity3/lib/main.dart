@@ -29,11 +29,11 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String displayText = 'BINS';
+  String displayText = 'BSCPE';
 
   void toggleText() {
     setState(() {
-      displayText = displayText == 'BINS' ? 'BIOT' : 'BINS';
+      displayText = displayText == 'BSCPE' ? '4-7' : 'BSCPE';
     });
   }
 
@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 foregroundColor: Colors.white,
                 padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
               ),
-              child: const Text('UGH'),
+              child: const Text('PRESS ME'),
             ),
             const SizedBox(height: 20),
             TextButton(
@@ -74,7 +74,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 foregroundColor: Colors.teal,
                 textStyle: const TextStyle(fontSize: 16),
               ),
-              child: const Text('UGH UGH'),
+              child: const Text('PRESS ME'),
             ),
           ],
         ),
