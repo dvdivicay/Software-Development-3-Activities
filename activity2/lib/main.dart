@@ -59,7 +59,7 @@ class MyHomePage extends StatelessWidget {
 
             const SizedBox(height: 30),
 
-            // Row + Container section
+
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [

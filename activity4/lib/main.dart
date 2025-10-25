@@ -48,7 +48,7 @@ class MyHomePage extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             Image.asset(
-              'assets/local-image.jpg', // change filename later
+              'assets/local-image.jpg',
               height: 150,
             ),
 
