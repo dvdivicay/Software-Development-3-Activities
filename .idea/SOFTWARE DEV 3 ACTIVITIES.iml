@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/activity1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity10/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity10/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity6/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity7/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity7/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity7/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity8/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity8/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity8/build" />
+      <excludeFolder url="file://$MODULE_DIR$/activity9/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/activity9/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/activity9/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
